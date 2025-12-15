@@ -1,4 +1,4 @@
-# Owlet Custom Integration
+# Owlet-Z Custom Integration
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Activity][commits-shield]][commits]
