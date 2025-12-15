@@ -1,13 +1,14 @@
 {
-  "domain": "owlet",
+  "domain": "owlet-z",
   "name": "Owlet Smart Sock",
   "codeowners": [
-    "@ryanbdclark"
+    "@ryanbdclark",
+    "@zyphlar"
   ],
   "config_flow": true,
-  "documentation":"https://github.com/ryanbdclark/owlet",
+  "documentation":"https://github.com/zyphlar/owlet-z",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/ryanbdclark/owlet/issues",
+  "issue_tracker": "https://github.com/zyphlar/owlet-z/issues",
   "requirements": [
     "pyowletapi==2025.4.1"
   ],
