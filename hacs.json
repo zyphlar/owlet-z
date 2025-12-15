@@ -2,6 +2,6 @@
   "name": "Owlet-Z",
   "hacs": "1.32.1",
   "homeassistant": "2024.1",
-  "zip_release": true,
+  "zip_release": false,
   "filename": "owlet.zip"
 }
